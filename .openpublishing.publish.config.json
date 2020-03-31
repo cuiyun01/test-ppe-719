@@ -2,6 +2,24 @@
   "build_entry_point": "op",
   "docsets_to_publish": [
     {
+      "docset_name": "apitest",
+      "build_source_folder": "string",
+      "build_output_subfolder": "string",
+      "locale": "en-us",
+      "monikers": [
+        "string"
+      ],
+      "moniker_ranges": [
+        "string"
+      ],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "string",
+      "template_folder": "string"
+    },
+    {
       "docset_name": "test-ppe-719",
       "build_source_folder": "test-ppe-719",
       "build_output_subfolder": "test-ppe-719",
