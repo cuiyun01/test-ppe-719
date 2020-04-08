@@ -31,6 +31,20 @@
         "Conceptual": "Content"
       },
       "build_entry_point": "op"
+    },
+    {
+      "docset_name": "apitestv3",
+      "build_source_folder": "apitestv3",
+      "build_output_subfolder": "string",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
