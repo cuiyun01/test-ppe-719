@@ -18,7 +18,7 @@ These are some cases when it makes sense to create a skill.
 - **When using voice is an easier and more natural way to interact**  
   If the user has a disability that makes it difficult to type, or to read.
   
-  If the user is on a device that's hard to type on, such as a phone, tablet, or Xbox.
+  If the user is on a device that's hard to type on, such as a phone, tablet, or Xbox. 
 
   When the user needs to share content or set a reminder, it's easier to say, "Share that with John" or "Remind me to pick up Jessie".  
 
