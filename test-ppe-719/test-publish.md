@@ -13,7 +13,7 @@ keywords: cortana
 
 The Cortana Skills Kit enables developers to create compelling experiences that provide productivity solutions for home or work. But does it make sense to create a skill in all cases? Probably not. You need to consider what the user will want from your skill.
 
-These are some cases when it makes sense to create a skill.
+These are some cases when it makes sense to create a skill. 
 
 - **When using voice is an easier and more natural way to interact**  
   If the user has a disability that makes it difficult to type, or to read.
