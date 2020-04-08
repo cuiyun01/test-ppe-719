@@ -38,5 +38,6 @@
     ]
   },
   "need_generate_pdf_url_template": false,
-  "need_generate_pdf": false
+  "need_generate_pdf": false,
+  "use_docfxv3": true
 }
